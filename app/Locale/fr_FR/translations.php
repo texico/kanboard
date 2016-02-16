@@ -1044,7 +1044,7 @@ return array(
     'Close all tasks of this column' => 'Fermer toutes les tâches de cette colonne',
     'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.' => 'Aucun plugin n\'a enregistré une méthode de notification de projet. Vous pouvez toujours configurer les notifications individuelles dans votre profil d\'utilisateur.',
     'My dashboard' => 'Mon tableau de bord',
-    'My profile' => 'Mon profile',
+    'My profile' => 'Mon profil',
     'Project owner: ' => 'Responsable du projet : ',
     'The project identifier is optional and must be alphanumeric, example: MYPROJECT.' => 'L\'identifiant du projet est optionnel et doit être alphanumérique, example: MONPROJET.',
     'Project owner' => 'Responsable du projet',
